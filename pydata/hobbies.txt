@@ -1,0 +1,505 @@
+<a href="https://en.wikipedia.org/wiki/3D_printing" title="3D printing">3D printing</a>
+<a href="https://en.wikipedia.org/wiki/Acroyoga" title="Acroyoga">Acroyoga</a>
+<a href="https://en.wikipedia.org/wiki/Acting" title="Acting">Acting</a>
+<a href="https://en.wikipedia.org/wiki/Animation" title="Animation">Animation</a>
+<a href="https://en.wikipedia.org/wiki/Anime" title="Anime">Anime</a>
+<a href="https://en.wikipedia.org/wiki/Aquascaping" title="Aquascaping">Aquascaping</a>
+<a href="https://en.wikipedia.org/wiki/Art" title="Art">Art</a>
+<a href="https://en.wikipedia.org/wiki/Astrology" title="Astrology">Astrology</a>
+<a href="https://en.wikipedia.org/wiki/Baking" title="Baking">Baking</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Barbershop_Music" title="Barbershop Music">Barbershop Music</a>
+<a href="https://en.wikipedia.org/wiki/Baton_twirling" title="Baton twirling">Baton twirling</a>
+<a href="https://en.wikipedia.org/wiki/Beatboxing" title="Beatboxing">Beatboxing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Bell_ringing" title="Bell ringing">Bell ringing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Binge_watching" title="Binge watching">Binge watching</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Blogging" title="Blogging">Blogging</a>
+<a href="https://en.wikipedia.org/wiki/Book_restoration" title="Book restoration">Book restoration</a>
+<a href="https://en.wikipedia.org/wiki/Bowling" title="Bowling">Bowling</a>
+<a href="https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu" title="Brazilian jiu-jitsu">Brazilian jiu-jitsu</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Breadmaking" title="Breadmaking">Breadmaking</a>
+<a href="https://en.wikipedia.org/wiki/Calligraphy" title="Calligraphy">Calligraphy</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Candle_making" title="Candle making">Candle making</a>
+<a href="https://en.wikipedia.org/wiki/Candy_making" title="Candy making">Candy making</a>
+<a href="https://en.wikipedia.org/wiki/Car_spotting" title="Car spotting">Car spotting</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Card_games" title="Card games">Card games</a>
+<a href="https://en.wikipedia.org/wiki/Cardistry" title="Cardistry">Cardistry</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Ceramics" title="Ceramics">Ceramics</a>
+<a href="https://en.wikipedia.org/wiki/Cheesemaking" title="Cheesemaking">Cheesemaking</a>
+<a href="https://en.wikipedia.org/wiki/Chess" title="Chess">Chess</a>
+<a href="https://en.wikipedia.org/wiki/Cleaning" title="Cleaning">Cleaning</a>
+<a href="https://en.wikipedia.org/wiki/Collecting" title="Collecting">Collecting</a>
+<a href="https://en.wikipedia.org/wiki/Communication" title="Communication">Communication</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Community_activism" title="Community activism">Community activism</a>
+<a href="https://en.wikipedia.org/wiki/Computer_programming" title="Computer programming">Computer programming</a>
+<a href="https://en.wikipedia.org/wiki/Confectionery" title="Confectionery">Confectionery</a>
+<a href="https://en.wikipedia.org/wiki/Construction" title="Construction">Construction</a>
+<a href="https://en.wikipedia.org/wiki/Cooking" title="Cooking">Cooking</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Cosplaying" title="Cosplaying">Cosplaying</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Couponing" title="Couponing">Couponing</a>
+<a href="https://en.wikipedia.org/wiki/Craft" title="Craft">Craft</a>
+<a href="https://en.wikipedia.org/wiki/Creative_writing" title="Creative writing">Creative writing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Crocheting" title="Crocheting">Crocheting</a>
+<a href="https://en.wikipedia.org/wiki/Cross-stitch" title="Cross-stitch">Cross-stitch</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Crossword_puzzles" title="Crossword puzzles">Crossword puzzles</a>
+<a href="https://en.wikipedia.org/wiki/Cryptography" title="Cryptography">Cryptography</a>
+<a href="https://en.wikipedia.org/wiki/Cue_sports" title="Cue sports">Cue sports</a>
+<a href="https://en.wikipedia.org/wiki/Dance" title="Dance">Dance</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Dining" title="Dining">Dining</a>
+<a href="https://en.wikipedia.org/wiki/Diorama" title="Diorama">Diorama</a>
+<a href="https://en.wikipedia.org/wiki/Djembe" title="Djembe">Djembe</a>
+<a href="https://en.wikipedia.org/wiki/Do_it_yourself" title="Do it yourself">Do it yourself</a>
+<a href="https://en.wikipedia.org/wiki/Drama" title="Drama">Drama</a>
+<a href="https://en.wikipedia.org/wiki/Drawing" title="Drawing">Drawing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Electronic_games" title="Electronic games">Electronic games</a>
+<a href="https://en.wikipedia.org/wiki/Electronics" title="Electronics">Electronics</a>
+<a href="https://en.wikipedia.org/wiki/Embroidery" title="Embroidery">Embroidery</a>
+<a href="https://en.wikipedia.org/wiki/Engraving" title="Engraving">Engraving</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Entertaining" title="Entertaining">Entertaining</a>
+<a href="https://en.wikipedia.org/wiki/Everyday_carry" title="Everyday carry">Everyday carry</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Experimenting" title="Experimenting">Experimenting</a>
+<a href="https://en.wikipedia.org/wiki/Fashion" title="Fashion">Fashion</a>
+<a href="https://en.wikipedia.org/wiki/Fashion_design" title="Fashion design">Fashion design</a>
+<a href="https://en.wikipedia.org/wiki/Filmmaking" title="Filmmaking">Filmmaking</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Fingerpainting" title="Fingerpainting">Fingerpainting</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Fishfarming" title="Fishfarming">Fishfarming</a>
+<a href="https://en.wikipedia.org/wiki/Fishkeeping" title="Fishkeeping">Fishkeeping</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Flower_arranging" title="Flower arranging">Flower arranging</a>
+<a href="https://en.wikipedia.org/wiki/Fly_tying" title="Fly tying">Fly tying</a>
+<a href="https://en.wikipedia.org/wiki/Genealogy" title="Genealogy">Genealogy</a>
+<a href="https://en.wikipedia.org/wiki/Glassblowing" title="Glassblowing">Glassblowing</a>
+<a href="https://en.wikipedia.org/wiki/Gardening" title="Gardening">Gardening</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Gongfu_tea" title="Gongfu tea">Gongfu tea</a>
+<a href="https://en.wikipedia.org/wiki/Graphic_design" title="Graphic design">Graphic design</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Gunsmithing" title="Gunsmithing">Gunsmithing</a>
+<a href="https://en.wikipedia.org/wiki/Home_improvement" title="Home improvement">Home improvement</a>
+<a href="https://en.wikipedia.org/wiki/Homebrewing" title="Homebrewing">Homebrewing</a>
+<a href="https://en.wikipedia.org/wiki/Houseplant_care" title="Houseplant care">Houseplant care</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Hula_hooping" title="Hula hooping">Hula hooping</a>
+<a href="https://en.wikipedia.org/wiki/Hydroponics" title="Hydroponics">Hydroponics</a>
+<a href="https://en.wikipedia.org/wiki/Ice_skating" title="Ice skating">Ice skating</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Jewelry_making" title="Jewelry making">Jewelry making</a>
+<a href="https://en.wikipedia.org/wiki/Juggling" title="Juggling">Juggling</a>
+<a href="https://en.wikipedia.org/wiki/Karaoke" title="Karaoke">Karaoke</a>
+<a href="https://en.wikipedia.org/wiki/Karate" title="Karate">Karate</a>
+<a href="https://en.wikipedia.org/wiki/Kendama" title="Kendama">Kendama</a>
+<a href="https://en.wikipedia.org/wiki/Knife_making" title="Knife making">Knife making</a>
+<a href="https://en.wikipedia.org/wiki/Knitting" title="Knitting">Knitting</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Knot_tying" title="Knot tying">Knot tying</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Kung_fu" title="Kung fu">Kung fu</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Lace_making" title="Lace making">Lace making</a>
+<a href="https://en.wikipedia.org/wiki/Lapidary" title="Lapidary">Lapidary</a>
+<a href="https://en.wikipedia.org/wiki/Leather_crafting" title="Leather crafting">Leather crafting</a>
+<a href="https://en.wikipedia.org/wiki/Livestreaming" title="Livestreaming">Livestreaming</a>
+<a href="https://en.wikipedia.org/wiki/Lock_picking" title="Lock picking">Lock picking</a>
+<a href="https://en.wikipedia.org/wiki/Machining" title="Machining">Machining</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Macrame" title="Macrame">Macrame</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Makeup" title="Makeup">Makeup</a>
+<a href="https://en.wikipedia.org/wiki/Manga" title="Manga">Manga</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Massaging" title="Massaging">Massaging</a>
+<a href="https://en.wikipedia.org/wiki/Mechanics" title="Mechanics">Mechanics</a>
+<a href="https://en.wikipedia.org/wiki/Meditation" title="Meditation">Meditation</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Memory_training" title="Memory training">Memory training</a>
+<a href="https://en.wikipedia.org/wiki/Metalworking" title="Metalworking">Metalworking</a>
+<a href="https://en.wikipedia.org/wiki/Miniature_art" title="Miniature art">Miniature art</a>
+<a href="https://en.wikipedia.org/wiki/Model_building" title="Model building">Model building</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Modeling" title="Modeling">Modeling</a>
+<a href="https://en.wikipedia.org/wiki/Model_engineering" title="Model engineering">Model engineering</a>
+<a href="https://en.wikipedia.org/wiki/Music" title="Music">Music</a>
+<a href="https://en.wikipedia.org/wiki/Nail_art" title="Nail art">Nail art</a>
+<a href="https://en.wikipedia.org/wiki/Needlepoint" title="Needlepoint">Needlepoint</a>
+<a href="https://en.wikipedia.org/wiki/Origami" title="Origami">Origami</a>
+<a href="https://en.wikipedia.org/wiki/Painting" title="Painting">Painting</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Pen_Spinning" title="Pen Spinning">Pen Spinning</a>
+<a href="https://en.wikipedia.org/wiki/Performance" title="Performance">Performance</a>
+<a href="https://en.wikipedia.org/wiki/Pet_sitting" title="Pet sitting">Pet sitting</a>
+<a href="https://en.wikipedia.org/wiki/Philately" title="Philately">Philately</a>
+<a href="https://en.wikipedia.org/wiki/Photography" title="Photography">Photography</a>
+<a href="https://en.wikipedia.org/wiki/Pilates" title="Pilates">Pilates</a>
+<a href="https://en.wikipedia.org/wiki/Planning" title="Planning">Planning</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Plastic_art" title="Plastic art">Plastic art</a>
+<a href="https://en.wikipedia.org/wiki/Poetry" title="Poetry">Poetry</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Pole_dancing" title="Pole dancing">Pole dancing</a>
+<a href="https://en.wikipedia.org/wiki/Postcrossing" title="Postcrossing">Postcrossing</a>
+<a href="https://en.wikipedia.org/wiki/Pottery" title="Pottery">Pottery</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Practical_jokes" title="Practical jokes">Practical jokes</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Pressed_flower_craft" title="Pressed flower craft">Pressed flower craft</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Proverbs" title="Proverbs">Proverbs</a>
+<a href="https://en.wikipedia.org/wiki/Public_speaking" title="Public speaking">Public speaking</a>
+<a href="https://en.wikipedia.org/wiki/Puppetry" title="Puppetry">Puppetry</a>
+<a href="https://en.wikipedia.org/wiki/Pyrography" title="Pyrography">Pyrography</a>
+<a href="https://en.wikipedia.org/wiki/Quilling" title="Quilling">Quilling</a>
+<a href="https://en.wikipedia.org/wiki/Quilting" title="Quilting">Quilting</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Quizzes" title="Quizzes">Quizzes</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Rail_transport_modeling" title="Rail transport modeling">Rail transport modeling</a>
+<a href="https://en.wikipedia.org/wiki/Rapping" title="Rapping">Rapping</a>
+<a href="https://en.wikipedia.org/wiki/Refinishing" title="Refinishing">Refinishing</a>
+<a href="https://en.wikipedia.org/wiki/Reiki" title="Reiki">Reiki</a>
+<a href="https://en.wikipedia.org/wiki/Robot_combat" title="Robot combat">Robot combat</a>
+<a href="https://en.wikipedia.org/wiki/Rubik%27s_Cube" title="Rubik's Cube">Rubik's Cube</a>
+<a href="https://en.wikipedia.org/wiki/Scrapbooking" title="Scrapbooking">Scrapbooking</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Scuba_Diving" title="Scuba Diving">Scuba Diving</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Sculpting" title="Sculpting">Sculpting</a>
+<a href="https://en.wikipedia.org/wiki/Sewing" title="Sewing">Sewing</a>
+<a href="https://en.wikipedia.org/wiki/Shoemaking" title="Shoemaking">Shoemaking</a>
+<a href="https://en.wikipedia.org/wiki/Singing" title="Singing">Singing</a>
+<a href="https://en.wikipedia.org/wiki/Skipping_rope" title="Skipping rope">Skipping rope</a>
+<a href="https://en.wikipedia.org/wiki/Slot_car" title="Slot car">Slot car</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Soapmaking" title="Soapmaking">Soapmaking</a>
+<a href="https://en.wikipedia.org/wiki/Social_media" title="Social media">Social media</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Spreadsheets" title="Spreadsheets">Spreadsheets</a>
+<a href="https://en.wikipedia.org/wiki/Stamp_collecting" title="Stamp collecting">Stamp collecting</a>
+<a href="https://en.wikipedia.org/wiki/Stand-up_comedy" title="Stand-up comedy">Stand-up comedy</a>
+<a href="https://en.wikipedia.org/wiki/Storytelling" title="Storytelling">Storytelling</a>
+<a href="https://en.wikipedia.org/wiki/Stretching" title="Stretching">Stretching</a>
+<a href="https://en.wikipedia.org/wiki/Sudoku" title="Sudoku">Sudoku</a>
+<a href="https://en.wikipedia.org/wiki/Tapestry" title="Tapestry">Tapestry</a>
+<a href="https://en.wikipedia.org/wiki/Tarot" title="Tarot">Tarot</a>
+<a href="https://en.wikipedia.org/wiki/Taxidermy" title="Taxidermy">Taxidermy</a>
+<a href="https://en.wikipedia.org/wiki/Upcycling" title="Upcycling">Upcycling</a>
+<a href="https://en.wikipedia.org/wiki/Video_editing" title="Video editing">Video editing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Video_gaming" title="Video gaming">Video gaming</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Wargaming" title="Wargaming">Wargaming</a>
+<a href="https://en.wikipedia.org/wiki/Waxing" title="Waxing">Waxing</a>
+<a href="https://en.wikipedia.org/wiki/Weaving" title="Weaving">Weaving</a>
+<a href="https://en.wikipedia.org/wiki/Weight_training" title="Weight training">Weight training</a>
+<a href="https://en.wikipedia.org/wiki/Welding" title="Welding">Welding</a>
+<a href="https://en.wikipedia.org/wiki/Whittling" title="Whittling">Whittling</a>
+<a href="https://en.wikipedia.org/wiki/Wine_tasting" title="Wine tasting">Wine tasting</a>
+<a href="https://en.wikipedia.org/wiki/Winemaking" title="Winemaking">Winemaking</a>
+<a href="https://en.wikipedia.org/wiki/Witchcraft" title="Witchcraft">Witchcraft</a>
+<a href="https://en.wikipedia.org/wiki/Wood_carving" title="Wood carving">Wood carving</a>
+<a href="https://en.wikipedia.org/wiki/Woodworking" title="Woodworking">Woodworking</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Word_searches" title="Word searches">Word searches</a>
+<a href="https://en.wikipedia.org/wiki/Worldbuilding" title="Worldbuilding">Worldbuilding</a>
+<a href="https://en.wikipedia.org/wiki/Writing" title="Writing">Writing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Yo-yoing" title="Yo-yoing">Yo-yoing</a>
+<a href="https://en.wikipedia.org/wiki/Yoga" title="Yoga">Yoga</a>
+<a href="https://en.wikipedia.org/wiki/Zumba" title="Zumba">Zumba</a>
+<a href="https://en.wikipedia.org/wiki/Air_sports" title="Air sports">Air sports</a>
+<a href="https://en.wikipedia.org/wiki/Airsoft" title="Airsoft">Airsoft</a>
+<a href="https://en.wikipedia.org/wiki/Amateur_geology" title="Amateur geology">Amateur geology</a>
+<a href="https://en.wikipedia.org/wiki/Archery" title="Archery">Archery</a>
+<a href="https://en.wikipedia.org/wiki/Auto_detailing" title="Auto detailing">Auto detailing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Automobilism" title="Automobilism">Automobilism</a>
+<a href="https://en.wikipedia.org/wiki/Astronomy" title="Astronomy">Astronomy</a>
+<a href="https://en.wikipedia.org/wiki/Badminton" title="Badminton">Badminton</a>
+<a href="https://en.wikipedia.org/wiki/BASE_jumping" title="BASE jumping">BASE jumping</a>
+<a href="https://en.wikipedia.org/wiki/Baseball" title="Baseball">Baseball</a>
+<a href="https://en.wikipedia.org/wiki/Basketball" title="Basketball">Basketball</a>
+<a href="https://en.wikipedia.org/wiki/Beachcombing" title="Beachcombing">Beachcombing</a>
+<a href="https://en.wikipedia.org/wiki/Beekeeping" title="Beekeeping">Beekeeping</a>
+<a href="https://en.wikipedia.org/wiki/Birdwatching" title="Birdwatching">Birdwatching</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Blacksmithing" title="Blacksmithing">Blacksmithing</a>
+<a href="https://en.wikipedia.org/wiki/BMX" title="BMX">BMX</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Board_sports" title="Board sports">Board sports</a>
+<a href="https://en.wikipedia.org/wiki/Bodybuilding" title="Bodybuilding">Bodybuilding</a>
+<a href="https://en.wikipedia.org/wiki/Nothing" title="Nothing">Nothing</a>
+<a href="https://en.wikipedia.org/wiki/Camping" title="Camping">Camping</a>
+<a href="https://en.wikipedia.org/wiki/Canoeing" title="Canoeing">Canoeing</a>
+<a href="https://en.wikipedia.org/wiki/Canyoning" title="Canyoning">Canyoning</a>
+<a href="https://en.wikipedia.org/wiki/Car_tuning" title="Car tuning">Car tuning</a>
+<a href="https://en.wikipedia.org/wiki/Caving" title="Caving">Caving</a>
+<a href="https://en.wikipedia.org/wiki/Climbing" title="Climbing">Climbing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Composting" title="Composting">Composting</a>
+<a href="https://en.wikipedia.org/wiki/Croquet" title="Croquet">Croquet</a>
+<a href="https://en.wikipedia.org/wiki/Cycling" title="Cycling">Cycling</a>
+<a href="https://en.wikipedia.org/wiki/Darts" title="Darts">Darts</a>
+<a href="https://en.wikipedia.org/wiki/Dog_training" title="Dog training">Dog training</a>
+<a href="https://en.wikipedia.org/wiki/Dog_walking" title="Dog walking">Dog walking</a>
+<a href="https://en.wikipedia.org/wiki/Dowsing" title="Dowsing">Dowsing</a>
+<a href="https://en.wikipedia.org/wiki/Driving" title="Driving">Driving</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Farming" title="Farming">Farming</a>
+<a href="https://en.wikipedia.org/wiki/Fishing" title="Fishing">Fishing</a>
+<a href="https://en.wikipedia.org/wiki/Flag_football" title="Flag football">Flag football</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Flying_disc" title="Flying disc">Flying disc</a>
+<a href="https://en.wikipedia.org/wiki/Foraging" title="Foraging">Foraging</a>
+<a href="https://en.wikipedia.org/wiki/Fossicking" title="Fossicking">Fossicking</a>
+<a href="https://en.wikipedia.org/wiki/Freestyle_football" title="Freestyle football">Freestyle football</a>
+<a href="https://en.wikipedia.org/wiki/Fruit_picking" title="Fruit picking">Fruit picking</a>
+<a href="https://en.wikipedia.org/wiki/Gardening" title="Gardening">Gardening</a>
+<a href="https://en.wikipedia.org/wiki/Geocaching" title="Geocaching">Geocaching</a>
+<a href="https://en.wikipedia.org/wiki/Ghost_hunting" title="Ghost hunting">Ghost hunting</a>
+<a href="https://en.wikipedia.org/wiki/Gold_prospecting" title="Gold prospecting">Gold prospecting</a>
+<a href="https://en.wikipedia.org/wiki/Graffiti" title="Graffiti">Graffiti</a>
+<a href="https://en.wikipedia.org/wiki/Groundhopping" title="Groundhopping">Groundhopping</a>
+<a href="https://en.wikipedia.org/wiki/Guerrilla_gardening" title="Guerrilla gardening">Guerrilla gardening</a>
+<a href="https://en.wikipedia.org/wiki/Gymnastics" title="Gymnastics">Gymnastics</a>
+<a href="https://en.wikipedia.org/wiki/Handball" title="Handball">Handball</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Herbalism" title="Herbalism">Herbalism</a>
+<a href="https://en.wikipedia.org/wiki/Herping" title="Herping">Herping</a>
+<a href="https://en.wikipedia.org/wiki/High-power_rocketry" title="High-power rocketry">High-power rocketry</a>
+<a href="https://en.wikipedia.org/wiki/Hiking" title="Hiking">Hiking</a>
+<a href="https://en.wikipedia.org/wiki/Hobby_tunneling" title="Hobby tunneling">Hobby tunneling</a>
+<a href="https://en.wikipedia.org/wiki/Hooping" title="Hooping">Hooping</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Horseback_riding" title="Horseback riding">Horseback riding</a>
+<a href="https://en.wikipedia.org/wiki/Hunting" title="Hunting">Hunting</a>
+<a href="https://en.wikipedia.org/wiki/Inline_skating" title="Inline skating">Inline skating</a>
+<a href="https://en.wikipedia.org/wiki/Jogging" title="Jogging">Jogging</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Jumping_rope" title="Jumping rope">Jumping rope</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Karting" title="Karting">Karting</a>
+<a href="https://en.wikipedia.org/wiki/Kayaking" title="Kayaking">Kayaking</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Kitesurfing" title="Kitesurfing">Kitesurfing</a>
+<a href="https://en.wikipedia.org/wiki/Lacrosse" title="Lacrosse">Lacrosse</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/LARPing" title="LARPing">LARPing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Lomography" title="Lomography">Lomography</a>
+<a href="https://en.wikipedia.org/wiki/Longboarding" title="Longboarding">Longboarding</a>
+<a href="https://en.wikipedia.org/wiki/Martial_arts" title="Martial arts">Martial arts</a>
+<a href="https://en.wikipedia.org/wiki/Motorcycling" title="Motorcycling">Motorcycling</a>
+<a href="https://en.wikipedia.org/wiki/Meteorology" title="Meteorology">Meteorology</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Motor_sports" title="Motor sports">Motor sports</a>
+<a href="https://en.wikipedia.org/wiki/Mountain_biking" title="Mountain biking">Mountain biking</a>
+<a href="https://en.wikipedia.org/wiki/Mountaineering" title="Mountaineering">Mountaineering</a>
+<a href="https://en.wikipedia.org/wiki/Mushroom_hunting" title="Mushroom hunting">Mushroom hunting</a>
+<a href="https://en.wikipedia.org/wiki/Netball" title="Netball">Netball</a>
+<a href="https://en.wikipedia.org/wiki/Noodling" title="Noodling">Noodling</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Nordic_skating" title="Nordic skating">Nordic skating</a>
+<a href="https://en.wikipedia.org/wiki/Orienteering" title="Orienteering">Orienteering</a>
+<a href="https://en.wikipedia.org/wiki/Paintball" title="Paintball">Paintball</a>
+<a href="https://en.wikipedia.org/wiki/Paragliding" title="Paragliding">Paragliding</a>
+<a href="https://en.wikipedia.org/wiki/Parkour" title="Parkour">Parkour</a>
+<a href="https://en.wikipedia.org/wiki/Photography" title="Photography">Photography</a>
+<a href="https://en.wikipedia.org/wiki/Pickleball" title="Pickleball">Pickleball</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Picnicking" title="Picnicking">Picnicking</a>
+<a href="https://en.wikipedia.org/wiki/Polo" title="Polo">Polo</a>
+<a href="https://en.wikipedia.org/wiki/Powerlifting" title="Powerlifting">Powerlifting</a>
+<a href="https://en.wikipedia.org/wiki/Qigong" title="Qigong">Qigong</a>
+<a href="https://en.wikipedia.org/wiki/Rafting" title="Rafting">Rafting</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Rappelling" title="Rappelling">Rappelling</a>
+<a href="https://en.wikipedia.org/wiki/Renaissance_fair" title="Renaissance fair">Renaissance fair</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Renovating" title="Renovating">Renovating</a>
+<a href="https://en.wikipedia.org/wiki/Rock_climbing" title="Rock climbing">Rock climbing</a>
+<a href="https://en.wikipedia.org/wiki/Roller_skating" title="Roller skating">Roller skating</a>
+<a href="https://en.wikipedia.org/wiki/Running" title="Running">Running</a>
+<a href="https://en.wikipedia.org/wiki/Safari" title="Safari">Safari</a>
+<a href="https://en.wikipedia.org/wiki/Sailing" title="Sailing">Sailing</a>
+<a href="https://en.wikipedia.org/wiki/Scouting" title="Scouting">Scouting</a>
+<a href="https://en.wikipedia.org/wiki/Scuba_diving" title="Scuba diving">Scuba diving</a>
+<a href="https://en.wikipedia.org/wiki/Sculling" title="Sculling">Sculling</a>
+<a href="https://en.wikipedia.org/wiki/Shopping" title="Shopping">Shopping</a>
+<a href="https://en.wikipedia.org/wiki/Shuffleboard" title="Shuffleboard">Shuffleboard</a>
+<a href="https://en.wikipedia.org/wiki/Skateboarding" title="Skateboarding">Skateboarding</a>
+<a href="https://en.wikipedia.org/wiki/Skiing" title="Skiing">Skiing</a>
+<a href="https://en.wikipedia.org/wiki/Skimboarding" title="Skimboarding">Skimboarding</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Skydiving" title="Skydiving">Skydiving</a>
+<a href="https://en.wikipedia.org/wiki/Slacklining" title="Slacklining">Slacklining</a>
+<a href="https://en.wikipedia.org/wiki/Snorkeling" title="Snorkeling">Snorkeling</a>
+<a href="https://en.wikipedia.org/wiki/Snowboarding" title="Snowboarding">Snowboarding</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Snowmobiling" title="Snowmobiling">Snowmobiling</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Snowshoeing" title="Snowshoeing">Snowshoeing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Soccer" title="Soccer">Soccer</a>
+<a href="https://en.wikipedia.org/wiki/Stone_skipping" title="Stone skipping">Stone skipping</a>
+<a href="https://en.wikipedia.org/wiki/Storm_chasing" title="Storm chasing">Storm chasing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Sun_bathing" title="Sun bathing">Sun bathing</a>
+<a href="https://en.wikipedia.org/wiki/Surfing" title="Surfing">Surfing</a>
+<a href="https://en.wikipedia.org/wiki/Survivalism" title="Survivalism">Survivalism</a>
+<a href="https://en.wikipedia.org/wiki/Taekwondo" title="Taekwondo">Taekwondo</a>
+<a href="https://en.wikipedia.org/wiki/Tai_chi" title="Tai chi">Tai chi</a>
+<a href="https://en.wikipedia.org/wiki/Tennis" title="Tennis">Tennis</a>
+<a href="https://en.wikipedia.org/wiki/Thru-hiking" title="Thru-hiking">Thru-hiking</a>
+<a href="https://en.wikipedia.org/wiki/Topiary" title="Topiary">Topiary</a>
+<a href="https://en.wikipedia.org/wiki/Tourism" title="Tourism">Tourism</a>
+<a href="https://en.wikipedia.org/wiki/Travel" title="Travel">Travel</a>
+<a href="https://en.wikipedia.org/wiki/Urban_exploration" title="Urban exploration">Urban exploration</a>
+<a href="https://en.wikipedia.org/wiki/Vacation" title="Vacation">Vacation</a>
+<a href="https://en.wikipedia.org/wiki/Vegetable_farming" title="Vegetable farming">Vegetable farming</a>
+<a href="https://en.wikipedia.org/wiki/Videography" title="Videography">Videography</a>
+<a href="https://en.wikipedia.org/wiki/Volleyball" title="Volleyball">Volleyball</a>
+<a href="https://en.wikipedia.org/wiki/Volunteering" title="Volunteering">Volunteering</a>
+<a href="https://en.wikipedia.org/wiki/Walking" title="Walking">Walking</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Water_sports" title="Water sports">Water sports</a>
+<a href="https://en.wikipedia.org/wiki/Archaeology" title="Archaeology">Archaeology</a>
+<a href="https://en.wikipedia.org/wiki/Astronomy" title="Astronomy">Astronomy</a>
+<a href="https://en.wikipedia.org/wiki/Animation" title="Animation">Animation</a>
+<a href="https://en.wikipedia.org/wiki/Aerospace" title="Aerospace">Aerospace</a>
+<a href="https://en.wikipedia.org/wiki/Biology" title="Biology">Biology</a>
+<a href="https://en.wikipedia.org/wiki/Botany" title="Botany">Botany</a>
+<a href="https://en.wikipedia.org/wiki/Business" title="Business">Business</a>
+<a href="https://en.wikipedia.org/wiki/Chemistry" title="Chemistry">Chemistry</a>
+<a href="https://en.wikipedia.org/wiki/Entrepreneurship" title="Entrepreneurship">Entrepreneurship</a>
+<a href="https://en.wikipedia.org/wiki/Geography" title="Geography">Geography</a>
+<a href="https://en.wikipedia.org/wiki/History" title="History">History</a>
+<a href="https://en.wikipedia.org/wiki/Linguistics" title="Linguistics">Linguistics</a>
+<a href="https://en.wikipedia.org/wiki/Literature" title="Literature">Literature</a>
+<a href="https://en.wikipedia.org/wiki/Mathematics" title="Mathematics">Mathematics</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Medical_science" title="Medical science">Medical science</a>
+<a href="https://en.wikipedia.org/wiki/Microbiology" title="Microbiology">Microbiology</a>
+<a href="https://en.wikipedia.org/wiki/Mycology" title="Mycology">Mycology</a>
+<a href="https://en.wikipedia.org/wiki/Neuroscience" title="Neuroscience">Neuroscience</a>
+<a href="https://en.wikipedia.org/wiki/Philosophy" title="Philosophy">Philosophy</a>
+<a href="https://en.wikipedia.org/wiki/Physics" title="Physics">Physics</a>
+<a href="https://en.wikipedia.org/wiki/Psychology" title="Psychology">Psychology</a>
+<a href="https://en.wikipedia.org/wiki/Research" title="Research">Research</a>
+<a href="https://en.wikipedia.org/wiki/Science_and_technology_studies" title="Science and technology studies">Science and technology studies</a>
+<a href="https://en.wikipedia.org/wiki/Social_studies" title="Social studies">Social studies</a>
+<a href="https://en.wikipedia.org/wiki/Sociology" title="Sociology">Sociology</a>
+<a href="https://en.wikipedia.org/wiki/Sports_science" title="Sports science">Sports science</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Story_writing" title="Story writing">Story writing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Life_science" title="Life science">Life science</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Teaching" title="Teaching">Teaching</a>
+<a href="https://en.wikipedia.org/wiki/Web_design" title="Web design">Web design</a>
+<a href="https://en.wikipedia.org/wiki/Action_figure" title="Action figure">Action figure</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Antiquing" title="Antiquing">Antiquing</a>
+<a href="https://en.wikipedia.org/wiki/Ant-keeping" title="Ant-keeping">Ant-keeping</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Art_collecting" title="Art collecting">Art collecting</a>
+<a href="https://en.wikipedia.org/wiki/Book_collecting" title="Book collecting">Book collecting</a>
+<a href="https://en.wikipedia.org/wiki/Button_collecting" title="Button collecting">Button collecting</a>
+<a href="https://en.wikipedia.org/wiki/Coin_collecting" title="Coin collecting">Coin collecting</a>
+<a href="https://en.wikipedia.org/wiki/Comic_book_collecting" title="Comic book collecting">Comic book collecting</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Compact_discs" title="Compact discs">Compact discs</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Crystals" title="Crystals">Crystals</a>
+<a href="https://en.wikipedia.org/wiki/Deltiology" title="Deltiology">Deltiology</a>
+<a href="https://en.wikipedia.org/wiki/Die-cast_toy" title="Die-cast toy">Die-cast toy</a>
+<a href="https://en.wikipedia.org/wiki/Digital_hoarding" title="Digital hoarding">Digital hoarding</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Dolls" title="Dolls">Dolls</a>
+<a href="https://en.wikipedia.org/wiki/Element_collecting" title="Element collecting">Element collecting</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Films" title="Films">Films</a>
+<a href="https://en.wikipedia.org/wiki/Knife_collecting" title="Knife collecting">Knife collecting</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Lotology" title="Lotology">Lotology</a>
+<a href="https://en.wikipedia.org/wiki/Perfume" title="Perfume">Perfume</a>
+<a href="https://en.wikipedia.org/wiki/Philately" title="Philately">Philately</a>
+<a href="https://en.wikipedia.org/wiki/Phillumeny" title="Phillumeny">Phillumeny</a>
+<a href="https://en.wikipedia.org/wiki/Rail_transport_modelling" title="Rail transport modelling">Rail transport modelling</a>
+<a href="https://en.wikipedia.org/wiki/Record_collecting" title="Record collecting">Record collecting</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Rock_tumbling" title="Rock tumbling">Rock tumbling</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Shoes" title="Shoes">Shoes</a>
+<a href="https://en.wikipedia.org/wiki/Slot_car" title="Slot car">Slot car</a>
+<a href="https://en.wikipedia.org/wiki/Sports_memorabilia" title="Sports memorabilia">Sports memorabilia</a>
+<a href="https://en.wikipedia.org/wiki/Stamp_collecting" title="Stamp collecting">Stamp collecting</a>
+<a href="https://en.wikipedia.org/wiki/Video_game_collecting" title="Video game collecting">Video game collecting</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Vintage_cars" title="Vintage cars">Vintage cars</a>
+<a href="https://en.wikipedia.org/wiki/Vintage_clothing" title="Vintage clothing">Vintage clothing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Vinyl_Records" title="Vinyl Records">Vinyl Records</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Wikipedia_editing" title="Wikipedia editing">Wikipedia editing</a>
+<a href="https://en.wikipedia.org/wiki/Antiquities" title="Antiquities">Antiquities</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Auto_audiophilia" title="Auto audiophilia">Auto audiophilia</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Fossil_hunting" title="Fossil hunting">Fossil hunting</a>
+<a href="https://en.wikipedia.org/wiki/Insect_collecting" title="Insect collecting">Insect collecting</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Leaves" title="Leaves">Leaves</a>
+<a href="https://en.wikipedia.org/wiki/Magnet_fishing" title="Magnet fishing">Magnet fishing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Metal_detecting" title="Metal detecting">Metal detecting</a>
+<a href="https://en.wikipedia.org/wiki/Mineral_collecting" title="Mineral collecting">Mineral collecting</a>
+<a href="https://en.wikipedia.org/wiki/Rock_balancing" title="Rock balancing">Rock balancing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Stone_collecting" title="Stone collecting">Stone collecting</a>
+<a href="https://en.wikipedia.org/wiki/Air_hockey" title="Air hockey">Air hockey</a>
+<a href="https://en.wikipedia.org/wiki/Animal_fancy" title="Animal fancy">Animal fancy</a>
+<a href="https://en.wikipedia.org/wiki/Axe_throwing" title="Axe throwing">Axe throwing</a>
+<a href="https://en.wikipedia.org/wiki/Backgammon" title="Backgammon">Backgammon</a>
+<a href="https://en.wikipedia.org/wiki/Badminton" title="Badminton">Badminton</a>
+<a href="https://en.wikipedia.org/wiki/Baking" title="Baking">Baking</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Ballet_dancing" title="Ballet dancing">Ballet dancing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Ballroom_dancing" title="Ballroom dancing">Ballroom dancing</a>
+<a href="https://en.wikipedia.org/wiki/Baton_twirling" title="Baton twirling">Baton twirling</a>
+<a href="https://en.wikipedia.org/wiki/Bowling" title="Bowling">Bowling</a>
+<a href="https://en.wikipedia.org/wiki/Boxing" title="Boxing">Boxing</a>
+<a href="https://en.wikipedia.org/wiki/Cooking" title="Cooking">Cooking</a>
+<a href="https://en.wikipedia.org/wiki/Cheerleading" title="Cheerleading">Cheerleading</a>
+<a href="https://en.wikipedia.org/wiki/Chess" title="Chess">Chess</a>
+<a href="https://en.wikipedia.org/wiki/Cribbage" title="Cribbage">Cribbage</a>
+<a href="https://en.wikipedia.org/wiki/Curling" title="Curling">Curling</a>
+<a href="https://en.wikipedia.org/wiki/Darts" title="Darts">Darts</a>
+<a href="https://en.wikipedia.org/wiki/Debate" title="Debate">Debate</a>
+<a href="https://en.wikipedia.org/wiki/Dominoes" title="Dominoes">Dominoes</a>
+<a href="https://en.wikipedia.org/wiki/Esports" title="Esports">Esports</a>
+<a href="https://en.wikipedia.org/wiki/Fencing" title="Fencing">Fencing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Figure_Skating" title="Figure Skating">Figure Skating</a>
+<a href="https://en.wikipedia.org/wiki/Gymnastics" title="Gymnastics">Gymnastics</a>
+<a href="https://en.wikipedia.org/wiki/Ice_hockey" title="Ice hockey">Ice hockey</a>
+<a href="https://en.wikipedia.org/wiki/Ice_skating" title="Ice skating">Ice skating</a>
+<a href="https://en.wikipedia.org/wiki/Judo" title="Judo">Judo</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Jujitsu" title="Jujitsu">Jujitsu</a>
+<a href="https://en.wikipedia.org/wiki/Kabaddi" title="Kabaddi">Kabaddi</a>
+<a href="https://en.wikipedia.org/wiki/Laser_tag" title="Laser tag">Laser tag</a>
+<a href="https://en.wikipedia.org/wiki/Mahjong" title="Mahjong">Mahjong</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Marbles" title="Marbles">Marbles</a>
+<a href="https://en.wikipedia.org/wiki/Martial_arts" title="Martial arts">Martial arts</a>
+<a href="https://en.wikipedia.org/wiki/Model_United_Nations" title="Model United Nations">Model United Nations</a>
+<a href="https://en.wikipedia.org/wiki/Poker" title="Poker">Poker</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Pole_dancing" title="Pole dancing">Pole dancing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Role-playing_games" title="Role-playing games">Role-playing games</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Rughooking" title="Rughooking">Rughooking</a>
+<a href="https://en.wikipedia.org/wiki/Shogi" title="Shogi">Shogi</a>
+<a href="https://en.wikipedia.org/wiki/Slot_car_racing" title="Slot car racing">Slot car racing</a>
+<a href="https://en.wikipedia.org/wiki/Speedcubing" title="Speedcubing">Speedcubing</a>
+<a href="https://en.wikipedia.org/wiki/Sport_stacking" title="Sport stacking">Sport stacking</a>
+<a href="https://en.wikipedia.org/wiki/Table_football" title="Table football">Table football</a>
+<a href="https://en.wikipedia.org/wiki/Table_tennis" title="Table tennis">Table tennis</a>
+<a href="https://en.wikipedia.org/wiki/Volleyball" title="Volleyball">Volleyball</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Video_gaming" title="Video gaming">Video gaming</a>
+<a href="https://en.wikipedia.org/wiki/Wrestling" title="Wrestling">Wrestling</a>
+<a href="https://en.wikipedia.org/wiki/Airsoft" title="Airsoft">Airsoft</a>
+<a href="https://en.wikipedia.org/wiki/Archery" title="Archery">Archery</a>
+<a href="https://en.wikipedia.org/wiki/Association_football" title="Association football">Association football</a>
+<a href="https://en.wikipedia.org/wiki/Australian_rules_football" title="Australian rules football">Australian rules football</a>
+<a href="https://en.wikipedia.org/wiki/Auto_racing" title="Auto racing">Auto racing</a>
+<a href="https://en.wikipedia.org/wiki/Baseball" title="Baseball">Baseball</a>
+<a href="https://en.wikipedia.org/wiki/Beach_volleyball" title="Beach volleyball">Beach volleyball</a>
+<a href="https://en.wikipedia.org/wiki/Breakdancing" title="Breakdancing">Breakdancing</a>
+<a href="https://en.wikipedia.org/wiki/Climbing" title="Climbing">Climbing</a>
+<a href="https://en.wikipedia.org/wiki/Cornhole" title="Cornhole">Cornhole</a>
+<a href="https://en.wikipedia.org/wiki/Cricket" title="Cricket">Cricket</a>
+<a href="https://en.wikipedia.org/wiki/Croquet" title="Croquet">Croquet</a>
+<a href="https://en.wikipedia.org/wiki/Disc_golf" title="Disc golf">Disc golf</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Dog_sport" title="Dog sport">Dog sport</a>
+<a href="https://en.wikipedia.org/wiki/Equestrianism" title="Equestrianism">Equestrianism</a>
+<a href="https://en.wikipedia.org/wiki/Exhibition_drill" title="Exhibition drill">Exhibition drill</a>
+<a href="https://en.wikipedia.org/wiki/Field_hockey" title="Field hockey">Field hockey</a>
+<a href="https://en.wikipedia.org/wiki/Figure_skating" title="Figure skating">Figure skating</a>
+<a href="https://en.wikipedia.org/wiki/Fishing" title="Fishing">Fishing</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Footbag" title="Footbag">Footbag</a>
+<a href="https://en.wikipedia.org/wiki/Frisbee" title="Frisbee">Frisbee</a>
+<a href="https://en.wikipedia.org/wiki/Handball" title="Handball">Handball</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Horseback_riding" title="Horseback riding">Horseback riding</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Horsemanship" title="Horsemanship">Horsemanship</a>
+<a href="https://en.wikipedia.org/wiki/Horseshoes" title="Horseshoes">Horseshoes</a>
+<a href="https://en.wikipedia.org/wiki/Jukskei" title="Jukskei">Jukskei</a>
+<a href="https://en.wikipedia.org/wiki/Kart_racing" title="Kart racing">Kart racing</a>
+<a href="https://en.wikipedia.org/wiki/Knife_throwing" title="Knife throwing">Knife throwing</a>
+<a href="https://en.wikipedia.org/wiki/Lacrosse" title="Lacrosse">Lacrosse</a>
+<a href="https://en.wikipedia.org/wiki/Longboarding" title="Longboarding">Longboarding</a>
+<a href="https://en.wikipedia.org/wiki/Long-distance_running" title="Long-distance running">Long-distance running</a>
+<a href="https://en.wikipedia.org/wiki/Marching_band" title="Marching band">Marching band</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Mini_Golf" title="Mini Golf">Mini Golf</a>
+<a href="https://en.wikipedia.org/wiki/Model_aircraft" title="Model aircraft">Model aircraft</a>
+<a href="https://en.wikipedia.org/wiki/Orienteering" title="Orienteering">Orienteering</a>
+<a href="https://en.wikipedia.org/wiki/Pickleball" title="Pickleball">Pickleball</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Race_walking" title="Race walking">Race walking</a>
+<a href="https://en.wikipedia.org/wiki/Racquetball" title="Racquetball">Racquetball</a>
+<a href="https://en.wikipedia.org/wiki/Roller_derby" title="Roller derby">Roller derby</a>
+<a href="https://en.wikipedia.org/wiki/Sculling" title="Sculling">Sculling</a>
+<a href="https://en.wikipedia.org/wiki/Shooting_sports" title="Shooting sports">Shooting sports</a>
+<a href="https://en.wikipedia.org/wiki/Skateboarding" title="Skateboarding">Skateboarding</a>
+<a href="https://en.wikipedia.org/wiki/Skiing" title="Skiing">Skiing</a>
+<a href="https://en.wikipedia.org/wiki/Sled_dog_racing" title="Sled dog racing">Sled dog racing</a>
+<a href="https://en.wikipedia.org/wiki/Softball" title="Softball">Softball</a>
+<a href="https://en.wikipedia.org/wiki/Speed_skating" title="Speed skating">Speed skating</a>
+<a href="https://en.wikipedia.org/wiki/Surfing" title="Surfing">Surfing</a>
+<a href="https://en.wikipedia.org/wiki/Table_tennis" title="Table tennis">Table tennis</a>
+<a href="https://en.wikipedia.org/wiki/Tennis" title="Tennis">Tennis</a>
+<a href="https://en.wikipedia.org/wiki/Tennis_polo" title="Tennis polo">Tennis polo</a>
+<a href="https://en.wikipedia.org/wiki/Tether_car" title="Tether car">Tether car</a>
+<a href="https://en.wikipedia.org/wiki/Tour_skating" title="Tour skating">Tour skating</a>
+<a href="https://en.wikipedia.org/wiki/Tourism" title="Tourism">Tourism</a>
+<a class="mw-redirect" href="https://en.wikipedia.org/wiki/Trapshooting" title="Trapshooting">Trapshooting</a>
+<a href="https://en.wikipedia.org/wiki/Triathlon" title="Triathlon">Triathlon</a>
+<a href="https://en.wikipedia.org/wiki/Volleyball" title="Volleyball">Volleyball</a>
+<a href="https://en.wikipedia.org/wiki/Water_polo" title="Water polo">Water polo</a>
+<a href="https://en.wikipedia.org/wiki/Audiophile" title="Audiophile">Audiophile</a>
+<a href="https://en.wikipedia.org/wiki/Fishkeeping" title="Fishkeeping">Fishkeeping</a>
+<a href="https://en.wikipedia.org/wiki/Learning" title="Learning">Learning</a>
+<a href="https://en.wikipedia.org/wiki/Meditation" title="Meditation">Meditation</a>
+<a href="https://en.wikipedia.org/wiki/Microscopy" title="Microscopy">Microscopy</a>
+<a href="https://en.wikipedia.org/wiki/Research" title="Research">Research</a>
+<a href="https://en.wikipedia.org/wiki/Shortwave_listening" title="Shortwave listening">Shortwave listening</a>
+<a href="https://en.wikipedia.org/wiki/Aircraft_spotting" title="Aircraft spotting">Aircraft spotting</a>
+<a href="https://en.wikipedia.org/wiki/Amateur_astronomy" title="Amateur astronomy">Amateur astronomy</a>
+<a href="https://en.wikipedia.org/wiki/Birdwatching" title="Birdwatching">Birdwatching</a>
+<a href="https://en.wikipedia.org/wiki/Bus_spotting" title="Bus spotting">Bus spotting</a>
+<a href="https://en.wikipedia.org/wiki/Butterfly_watching" title="Butterfly watching">Butterfly watching</a>
+<a href="https://en.wikipedia.org/wiki/Geocaching" title="Geocaching">Geocaching</a>
+<a href="https://en.wikipedia.org/wiki/Herping" title="Herping">Herping</a>
+<a href="https://en.wikipedia.org/wiki/Hiking" title="Hiking">Hiking</a>
+<a href="https://en.wikipedia.org/wiki/Meteorology" title="Meteorology">Meteorology</a>
+<a href="https://en.wikipedia.org/wiki/People-watching" title="People-watching">People-watching</a>
+<a href="https://en.wikipedia.org/wiki/Photography" title="Photography">Photography</a>
+<a href="https://en.wikipedia.org/wiki/Satellite_watching" title="Satellite watching">Satellite watching</a>
+<a href="https://en.wikipedia.org/wiki/Whale_watching" title="Whale watching">Whale watching</a>
