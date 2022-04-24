@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Square+Peg&display=swap');
+
+.hobbyblock {
+    font-family: 'Lora', serif;
+    font-size: 2rem;
+    width: 20rem;
+    height: 20rem;
+}

@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
 
-body {
-    font-family: 'Square Peg', cursive, Verdana, Geneva, Tahoma, sans-serif !important;
+body, .parent {
+    font-family: 'Square Peg', Verdana, Geneva, Tahoma, sans-serif !important;
     font-size: 3rem;
     background-color: #F5B041 !important;
+    animation: fadeIn 1s ease-in;
 }
 
 #home {
@@ -26,4 +27,8 @@ body {
     color: black;
     transition: color 0.5s ease;
     text-decoration: none;
+}
+
+.back {
+    color: darkmagenta;
 }
