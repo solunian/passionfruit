@@ -1,13 +1,12 @@
 import React from 'react';
-import Bubble from './bubble';
+import { useRoutes } from 'hookrouter';
 
-import "./styles/App.css";
+import routes from './routes';
+import { NotFoundPage } from './generalUI';
 
 
 export default function App() {
-  return (
-    <div className="App">
-      <Bubble />
-    </div>
-  );
+  const routeResult = useRoutes(routes);
+
+  return routeResult || <NotFoundPage />;
 }
