@@ -27,5 +27,5 @@ Web app that allows people to explore passions. For PioneerHacks III. :/
 - [ ] give nodes an interface to link to other resources like wiki
 - [ ] ability to search nodes for certain hobbies
 - [ ] add data on firebase for js to request
-- [ ] deploy site on firebase
+- [x] deploy site on firebase
 - [ ] add animations, icons, colors, styling, about page
