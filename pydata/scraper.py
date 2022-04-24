@@ -35,7 +35,7 @@ for link in all_links:
         data["hobbies"].append({
             "title": link["title"],
             "wiki": link["href"],
-            "popularity": trends.get_popularity_value(link["title"]),
+            # "popularity": trends.get_popularity_value(link["title"]),
             "resources": [],
         })
         # hobbies.write(str(link) + "\n")
