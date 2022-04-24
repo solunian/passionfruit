@@ -31,16 +31,19 @@ for link in all_links:
 
         link["href"] = "https://en.wikipedia.org" + link["href"]
         
+        # popin = input(link["title"] + ": ")
+        # if not popin.isnumeric():
+        #     popin = 0
 
         data["hobbies"].append({
             "title": link["title"],
             "wiki": link["href"],
-            # "popularity": trends.get_popularity_value(link["title"]),
+            "interest": trends.get_popularity_value(link["title"]), # int(popin),
             "resources": [],
         })
         # hobbies.write(str(link) + "\n")
     except KeyError:
         print("nope: " + str(link))
 
-with open("hobbies.json", "w") as hobby_json:
-    json.dump(data, hobby_json)
+    with open("hobbies.json", "w") as hobby_json:
+        json.dump(data, hobby_json)
