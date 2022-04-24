@@ -1,11 +1,13 @@
 import React from "react";
 
+import "./styles/home.css";
+
 export function Home() {
     return (
-        <div>
-            Home
-            <a href="/explore">Explore</a>
-            <a href="/about">About</a>
+        <div id="home">
+            <a href="/explore" className="link">explore</a>
+            <div>passionfruit</div>
+            <a href="/about" className="link">about</a>
         </div>
     );
 }
@@ -13,13 +15,13 @@ export function Home() {
 
 export function About() {
     return (
-        <div>About</div>
+        <div>about</div>
     );
 }
 
 
 export function NotFoundPage() {
     return (
-      <div>NotFoundPage</div>
+        <div>NotFoundPage</div>
     );
-  }
+}

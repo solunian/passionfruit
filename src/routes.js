@@ -1,7 +1,7 @@
 import React from "react";
 
 import { Home, About } from "./generalUI";
-import Explore from "./Explore";
+import Explore from "./explore";
 
 
 const routes = {
