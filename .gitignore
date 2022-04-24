@@ -22,8 +22,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# python dependencies
+# python ignores
 venv
+__pycache__
 
 # scratch files
 /scratch
