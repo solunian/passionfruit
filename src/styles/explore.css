@@ -2,7 +2,27 @@
 
 .hobbyblock {
     font-family: 'Lora', serif;
-    font-size: 2rem;
+    font-size: 1.5rem;
     width: 20rem;
-    height: 20rem;
+    height: 13rem;
+    background-color: burlywood;
+    margin-bottom: 3rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+}
+
+div.rainbow-point {
+    color: darkslategray !important;
+    font-size: 1rem;
+    margin-left: 18%;
+}
+
+div.rainbow > img {
+    width: 10rem;
+    height: 0.2rem;
+    /* object-fit: fill; */
+}
+
+.about-content {
+    font-size: 2.5rem;
 }

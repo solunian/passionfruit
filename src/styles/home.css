@@ -32,3 +32,18 @@ body, .parent {
 .back {
     color: darkmagenta;
 }
+
+img.resize {
+    width: 10%;
+    height: auto;
+    margin-top: 7rem;
+}
+
+.generic-text {
+    font-size: 2rem;
+    color: darkslategray;
+}
+
+.special-headers {
+    margin-top: 10rem !important;
+}

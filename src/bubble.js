@@ -29,8 +29,11 @@ export default function Bubble(props) {
             console.log("clicked!");
             isOpened = !isOpened;
         })
-
+        
         two.bind("update", () => {
+            circle.rotation += 0.01;
+            circle.skewX = Math.sin(circle.rotation) / 10;
+            circle.skewY = Math.cos(circle.rotation) / 15;
             if (isOpened && (circle.radius < two.width || circle.radius <= two.height)) {
                 circle.radius *= 1.1;
             } else if (!isOpened) {
